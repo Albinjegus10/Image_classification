@@ -1,2 +1,2 @@
 # Image_classification
-image_classification-pretrained model
+image_classification-bottle-pretrained model
